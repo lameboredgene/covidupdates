@@ -1,0 +1,38 @@
+Hey, We have created this Covid-19 Templates with Live Tracker.
+
+Technolgy used:
+
+1) Language: HTML, CSS & JavaScript
+2) Library: jQuery, Owlcarsoul, Maginific Popup & Chart.js
+3) Framework: Bootstrap 4.5
+4) API: Covid-19 (India/Summary).
+
+We are giving these templates for free. You are free to customize this website according to your need.
+The purpose of giving the source code to learn the basic thing how can you create a beautiful website using these technologies and how you have to manage the file/folder structure for static websites. In the source code, I have mentioned the comments when needed so that you can understand the better code.
+
+Study that code and create a website like this and make sure that it should be responsive.
+
+Hope after studying the code you will create a new simple project.
+
+If you ask me which project should you create then my suggestion is to create a weather forecasting website using API so that anyone can see live updates of whether in the particular area.
+
+And if you really create any project then please send it to me for review. So that I can share your work on my page.
+
+mail id: contact@webappcreator.in
+
+Thank You So Much
+Keep Learning, Keep Supporting
+From
+Webapp Creator
+
+Follow us for more awesome content on web development: 
+
+Facebook: https://www.facebook.com/whoisgk
+Instagram: https://www.instagram.com/lameboredgene/
+Linkedin: #
+
+Join our telegram channel for more updates: 
+
+Telegram: https://t.me/rajank
+
+Website: http://rajanblogs.atwebpages.com
